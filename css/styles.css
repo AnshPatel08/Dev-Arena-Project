@@ -48,7 +48,7 @@ body{
     padding-left: 15%;
 }
 .site-btn1{
-    margin-left: 20%;
+    margin-left: 20% !important;
     background-color: black;
     color: white;
 }
